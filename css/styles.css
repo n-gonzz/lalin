@@ -1,0 +1,20 @@
+body,h1,h2,h3,h4,h5 {
+    font-family: "Raleway", sans-serif;
+}
+
+p {
+    text-align: justify;
+}
+
+body {
+    background-image: url("/img/fondo.png");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+hr {
+    border: none;
+    height: 1px;
+    background-color: transparent;
+}
